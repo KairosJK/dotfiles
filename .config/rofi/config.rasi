@@ -1,1 +1,5 @@
-@theme "/usr/share/rofi/themes/solarized.rasi"
+@theme "themes/rounded-gray-dark.rasi"
+
+configuration {
+    show-icons: true;
+}
